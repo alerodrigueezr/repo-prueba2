@@ -2,3 +2,4 @@ solar
 telecel
 vox
 personal
+CLARO
