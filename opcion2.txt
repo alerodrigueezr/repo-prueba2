@@ -1,5 +1,0 @@
-opcion
-title
-header
-footer
-body
