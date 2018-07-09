@@ -1,2 +1,4 @@
 opcion
+header
+footer
 body
